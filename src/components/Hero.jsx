@@ -1,4 +1,4 @@
-import Section from "./Section";
+import Section from "./section";
 import curve from "../assets/hero/curve.png";
 import Button from "./Button";
 import robot from "../assets/hero/robot.jpg";
